@@ -20,4 +20,15 @@
         android:text="@string/name"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
+
+    <!--Nick Name-->
+    <TextView
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_gravity="center_horizontal"
+        android:textStyle="bold"
+        android:textSize="24sp"
+        android:text="มายด์"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
 </LinearLayout>
